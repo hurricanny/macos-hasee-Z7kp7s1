@@ -1,1 +1,2 @@
-# macos-hasee-Z7kp7s1
+
+<p align="center">支持 <a href="https://github.com/kirainmoe/hasee-tongfang-macos/tree/master">Z7(m)-KP7/5(G)Z</a>, <a href="https://github.com/kirainmoe/hasee-tongfang-macos/tree/kp7gc">Z7(m)-KP7/5GC</a>, <a href="https://github.com/kirainmoe/hasee-tongfang-macos/tree/kp7ec">Z7(m)-KP7/5EC</a>, <a href="https://github.com/kirainmoe/hasee-tongfang-macos/tree/ct7gk">Z7(m)-CT7/5GK(GS)/G7-CT7VK</a>，请根据不同的机型选择分支。</p>
