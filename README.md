@@ -13,6 +13,7 @@
 <img src="https://i.loli.net/2019/05/14/5cda65189a08439627.jpg" width="50%"><img src="https://i.loli.net/2019/06/18/5d08683637e9899236.jpg" width="50%">
 
 13.6-10.15 全部亲自测试安装成功（全新安装/系统内 OTA 更新）；。
+1050TI显卡驱动！
 特别注意 个别机器layid不一样和usb不一样需要你自己定制
 
 
